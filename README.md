@@ -31,12 +31,11 @@ Most experienced with SMP, FFA and Network servers. Clean UIs done in Canva.
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=kotlin&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper-222222?style=flat-square&logo=files&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-222222?style=flat-square&logo=apachekafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-222222?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-222222?style=flat-square&logo=redis&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-222222?style=flat-square&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-222222?style=flat-square&logo=apachemaven&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-222222?style=flat-square&logo=canva&logoColor=white)
 
 </div>
