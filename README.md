@@ -44,5 +44,5 @@ Most experienced with SMP, FFA and Network servers. Clean UIs done in Canva.
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEIN-USERNAME&style=flat-square&color=222222&label=views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Bytewave1&style=flat-square&color=222222&label=views" alt="views" />
 </div>
