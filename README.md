@@ -5,7 +5,7 @@
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=Minecraft+Developer;SMP+%E2%80%A2+FFA+%E2%80%A2+Network;Canva+UI+Design" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=Minecraft+Developer;Paper+%E2%80%A2+Velocity+%E2%80%A2+Folia;SMP+%E2%80%A2+FFA+%E2%80%A2+Network" alt="typing" />
 </div>
 
 <br>
@@ -37,6 +37,9 @@ Most experienced with SMP, FFA and Network servers. Clean UIs done in Canva.
 ![Redis](https://img.shields.io/badge/Redis-222222?style=flat-square&logo=redis&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-222222?style=flat-square&logo=apachemaven&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-222222?style=flat-square&logo=canva&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-222222?style=flat-square&logo=gradle&logoColor=white)
 
 </div>
 
