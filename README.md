@@ -33,21 +33,3 @@
 </div>
 
 <br>
-
-## 👋 About me
-
-I build Discord bots and small developer tools. I also write the occasional Minecraft plugin (Java, Spigot/Paper), but my main focus is bots and CLI tooling.
-
-## 🔭 What I'm working on
-
-- 🔗 **mdlinkcheck** – a CLI tool that finds broken links and images in Markdown files *(in progress)*
-- 🤖 Discord bots *(add your best bot here)*
-
-## 🤝 Open for collaboration
-
-Got a bot idea, a docs repo, or a small tool that needs a hand? Message me on Discord or open an issue in one of my repos.
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Bytewave1&style=flat-square&color=7c3aed&label=views" alt="views" />
-</div>
