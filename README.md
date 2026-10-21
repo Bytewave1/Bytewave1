@@ -10,7 +10,7 @@
   <br>
 
   <!-- BUTTONS -->
-  <a href="https://discord.com/users/DEINE_DISCORD_ID">
+  <a href="https://discord.com/users/1427987763596361851">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/Bytewave1?tab=repositories">
@@ -33,3 +33,21 @@
 </div>
 
 <br>
+
+## 👋 About me
+
+I build Discord bots and small developer tools. I also write the occasional Minecraft plugin (Java, Spigot/Paper), but my main focus is bots and CLI tooling.
+
+## 🔭 What I'm working on
+
+- 🧰 **[dkit](https://github.com/Bytewave1/dkit)** – an offline CLI toolbox for Discord bot developers: decode snowflakes, translate permission and intent bitfields, build invite URLs. `pip install dkit-cli`
+- 🤖 Discord bots *(add your best bot here)*
+
+## 🤝 Open for collaboration
+
+Got a bot idea or a small tool that needs a hand? dkit has several [good first issues](https://github.com/Bytewave1/dkit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), or message me on Discord.
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Bytewave1&style=flat-square&color=7c3aed&label=views" alt="views" />
+</div>
